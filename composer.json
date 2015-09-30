@@ -1,5 +1,5 @@
 {
-    "name": "MekDrop/TagsGenerator",
+    "name": "MekDrop/tags-generator",
     "type": "library",    
     "description": "Small library for generating tags for content",
     "version": "0.1",
@@ -13,7 +13,7 @@
     "require": {
         "php":  ">=5.3",
         "ext-mbstring": "*",
-        "jp3cki/mb_str_replace": ">=4.0.0"
+        "fetus-hina/mb_str_replace": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": ">=4.0"
