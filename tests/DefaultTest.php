@@ -19,7 +19,7 @@ class DefaultTest
     const SHORT_INFO = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et odio non lorem ullamcorper ullamcorper.';
     
     public function testTagsGeneration() {
-        $instance = \MekDrop\TagsGenerator\TagsGenerator::getInstance();
+        $instance = \GamesLT\TagsGenerator\TagsGenerator::getInstance();
         $instance->importantWords = array(
             'Lorem',
             'Game',
