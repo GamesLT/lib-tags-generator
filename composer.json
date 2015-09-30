@@ -13,7 +13,7 @@
     "require": {
         "php":  ">=5.3",
         "ext-mbstring": "*",
-        "fetus-hina/mb_str_replace": "dev-master"
+        "jp3cki/mb_str_replace": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": ">=4.0"
