@@ -1,5 +1,5 @@
 {
-    "name": "mekdrop/tags-generator",
+    "name": "gameslt/lib-tags-generator",
     "type": "library",    
     "description": "A small library for generating tags for content",
     "keywords": [
@@ -7,7 +7,7 @@
         "tags",
         "generator"
     ],
-    "homepage": "https://github.com/MekDrop/tags-generator",
+    "homepage": "https://github.com/GamesLT/lib-tags-generator",
     "license": "MIT",
     "require": {
         "php":  ">=5.3",
@@ -26,12 +26,12 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/MekDrop/tags-generator/issues",
-        "source": "https://github.com/MekDrop/tags-generator"
+        "issues": "https://github.com/GamesLT/lib-tags-generator/issues",
+        "source": "https://github.com/GamesLT/lib-tags-generator"
     },    
     "autoload": {
         "psr-4" : {
-            "MekDrop\\TagsGenerator\\" : "src"
+            "GamesLT\\TagsGenerator\\" : "src"
         }
     }
 }
