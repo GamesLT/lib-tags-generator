@@ -1,6 +1,6 @@
 <?php
 
-namespace MekDrop\TagsGenerator;
+namespace GamesLT\TagsGenerator;
 
 /**
  * Simple class to generate automatically tags for text content
