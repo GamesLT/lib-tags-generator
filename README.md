@@ -15,4 +15,4 @@ Where `$title` is the title of the content, `$short_description` is short descri
 
 # License
 
-This library use MIT license. See [license.txt](https://raw.githubusercontent.com/MekDrop/tags-generator/master/license.txt) for more info.
+This library use MIT license. See [license.txt](https://raw.githubusercontent.com/GamesLT/lib-tags-generator/master/license.txt) for more info.
