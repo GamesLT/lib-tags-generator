@@ -1,5 +1,5 @@
 {
-    "name": "MekDrop/tags-generator",
+    "name": "mekdrop/tags-generator",
     "type": "library",    
     "description": "Small library for generating tags for content",
     "version": "0.1",
