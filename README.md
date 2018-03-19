@@ -13,6 +13,8 @@ You can use it by adding to your project with composer by running `composer requ
 # How to use it?
 
 Simple! You can get tags list by using this line of code in your file:
-`echo \GamesLT\TagsGenerator\TagsGenerator::getInstance()->findTags($title, $short_description, $content);`
+```php5
+echo \GamesLT\TagsGenerator\TagsGenerator::getInstance()->findTags($title, $short_description, $content);
+```
 
 Where `$title` is the title of the content, `$short_description` is short description, and `$content` is real content.
