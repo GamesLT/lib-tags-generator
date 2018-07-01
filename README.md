@@ -1,6 +1,6 @@
 [![license](https://img.shields.io/github/license/GamesLT/lib-tags-generator.svg)](license.txt) 
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/GamesLT/lib-tags-generator.svg)](https://php.net)
-[![Packagist](https://img.shields.io/packagist/v/GamesLT/lib-tags-generator.svg)](https://packagist.org/packages/gameslt/lib-tags-generator)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/gameslt/lib-tags-generator.svg)](https://php.net)
+[![Packagist](https://img.shields.io/packagist/v/gameslt/lib-tags-generator.svg)](https://packagist.org/packages/gameslt/lib-tags-generator)
 
 # What is this?
 
